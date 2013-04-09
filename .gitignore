@@ -1,5 +1,5 @@
 config/rubies.yml
-public/rubies
+#public/rubies
 *.log
 .bundle
 .env
